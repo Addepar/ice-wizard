@@ -2,5 +2,5 @@
 'use strict';
 
 module.exports = {
-  name: 'ice-wizard'
+  name: '@addepar/ice-wizard'
 };
