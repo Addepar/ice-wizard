@@ -2488,13 +2488,14 @@ ember-cli@~2.14.0:
     walk-sync "^0.3.0"
     yam "0.0.22"
 
-ember-decorators@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/ember-decorators/-/ember-decorators-1.2.0.tgz#0f202df63522d27516078ea0491cc79db9a73227"
+ember-decorators@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/ember-decorators/-/ember-decorators-1.2.1.tgz#dce9b9f1ae3999ea0fadf205370b8600238954d6"
   dependencies:
     babel-plugin-transform-class-properties "^6.24.1"
     babel-plugin-transform-decorators-legacy "^1.3.4"
     ember-cli-babel "^6.0.0"
+    ember-cli-version-checker "^2.0.0"
     ember-macro-helpers "^0.15.1"
 
 ember-disable-prototype-extensions@^1.1.2:
